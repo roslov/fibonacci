@@ -13,6 +13,7 @@ final class Fibonacci
      * Calculates the Fibonacci number.
      *
      * @param int $n Number
+     *
      * @return int Fibonacci number
      *
      * @see https://en.wikipedia.org/wiki/Fibonacci_number#Computation_by_rounding
