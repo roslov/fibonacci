@@ -1,6 +1,11 @@
 Fibonacci Number Calculator
 ===========================
 
+[![Latest Stable Version](https://poser.pugx.org/roslov/fibonacci/v)](https://packagist.org/packages/roslov/fibonacci)
+[![Total Downloads](https://poser.pugx.org/roslov/fibonacci/downloads)](https://packagist.org/packages/roslov/fibonacci)
+[![License](https://poser.pugx.org/roslov/fibonacci/license)](https://packagist.org/packages/roslov/fibonacci)
+[![PHP Version Require](https://poser.pugx.org/roslov/fibonacci/require/php)](https://packagist.org/packages/roslov/fibonacci)
+
 This package calculates [the Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_number).
 
 
